@@ -18,43 +18,43 @@
         <tr>
             <td align="center">
                 <a href="https://www.linkedin.com/posts/omer-reuveni_%D7%90%D7%99%D7%9F-%D7%9C%D7%99-%D7%90%D7%99%D7%9A-%D7%9C%D7%A2%D7%A9%D7%95%D7%AA-%D7%9B%D7%90%D7%99%D7%9C%D7%95-%D7%A9%D7%96%D7%94-%D7%9C%D7%90-%D7%9E%D7%A8%D7%92%D7%A9-%D7%90%D7%95%D7%AA%D7%99-activity-7026566580759085056-SqEG?utm_source=share&utm_medium=member_desktop">
-                    <img src="images/azriely.png" width="200px" alt="Achievement 1"/>
+                    <img src="images/azriely.png" width="400px" alt="👁Lopo 1"/>
                 </a>
             </td>
             <td align="center">
                 <a href="LINK_TO_LINKEDIN_2">
-                    <img src="https://media.licdn.com/dms/image/C4D22AQH38zL1wT2g9w/feedshare-shrink_800/0/1674370689754?e=1717027200&v=beta&t=DAZUKST08BguDo-nQ6m6e3HFzDEr07qbI0vR9fgE0lM" width="200px" alt="Achievement 2"/>
+                    <img src="https://media.licdn.com/dms/image/C4D22AQH38zL1wT2g9w/feedshare-shrink_800/0/1674370689754?e=1717027200&v=beta&t=DAZUKST08BguDo-nQ6m6e3HFzDEr07qbI0vR9fgE0lM" width="400px" alt="👁Lopo 2"/>
                 </a>
             </td>
             <td align="center">
                 <a href="https://www.linkedin.com/posts/omer-reuveni_technologystartups-domesticviolence-startups-activity-6995709096381321216-Qv2e?utm_source=share&utm_medium=member_desktop">
-                    <img src="https://media.licdn.com/dms/image/C4D22AQGMUuJFCKjlNA/feedshare-shrink_800/0/1667902945142?e=1717027200&v=beta&t=B8iCJlTfUgrY4gDEIfzFJo5eqRh71wMBW2MCqy3kOxM" width="200px" alt="Achievement 3"/>
+                    <img src="https://media.licdn.com/dms/image/C4D22AQGMUuJFCKjlNA/feedshare-shrink_800/0/1667902945142?e=1717027200&v=beta&t=B8iCJlTfUgrY4gDEIfzFJo5eqRh71wMBW2MCqy3kOxM" width="400px" alt="👁Lopo 3"/>
                 </a>
             </td>
         </tr>
         <tr>
             <td colspan="3" align="center">
-                <b>Lopo- IoT protection for threatened women | Description for Achievement 2 | Description for Achievement 3</b>
+                <b>Lopo- IoT protection for threatened women</b>
             </td>
         </tr>
         <tr>
             <td align="center">
                 <a href="https://www.linkedin.com/posts/omer-reuveni_%D7%A6%D7%99%D7%95%D7%A0%D7%99%D7%9D-%D7%96%D7%94-%D7%9C%D7%90-%D7%94%D7%9B%D7%9C-%D7%9B%D7%9B%D7%94-%D7%94%D7%97%D7%AA%D7%95%D7%9C-%D7%A9%D7%9C%D7%99-%D7%94%D7%9B%D7%A0%D7%99%D7%A1-%D7%9C%D7%9E%D7%95%D7%91%D7%99%D7%9C%D7%90%D7%99%D7%99-activity-7011214260835872768-8BdO?utm_source=share&utm_medium=member_desktop">
-                    <img src="https://media.licdn.com/dms/image/sync/C4D27AQFQY7AZKI3Zfg/articleshare-shrink_800/0/1712212387473?e=1714935600&v=beta&t=fokLtyuA7ua3GFzJPAIJxJEKUVdQXPbBLv5Btai_EVw" width="200px" alt="Achievement 4"/>
+                    <img src="https://media.licdn.com/dms/image/sync/C4D27AQFQY7AZKI3Zfg/articleshare-shrink_800/0/1712212387473?e=1714935600&v=beta&t=fokLtyuA7ua3GFzJPAIJxJEKUVdQXPbBLv5Btai_EVw" width="400px" alt="Project 4"/>
                     <br>
                     <b>My Story, on the "Entry Level" Podcast</b>
                 </a>
             </td>
             <td align="center">
                 <a href="https://www.linkedin.com/posts/omer-reuveni_computervision-careerintech-project-activity-6851411584040873984-WusW?utm_source=share&utm_medium=member_desktop">
-                    <img src="https://media.licdn.com/dms/image/C4D22AQEVzdcvDL2aPg/feedshare-shrink_800/0/1633502601076?e=1717027200&v=beta&t=mxyRbKBYx7E6ctzs7FmI_AjQq2uWTcFMcRkf-V3x2Eo" width="200px" alt="Achievement 5"/>
+                    <img src="https://media.licdn.com/dms/image/C4D22AQEVzdcvDL2aPg/feedshare-shrink_800/0/1633502601076?e=1717027200&v=beta&t=mxyRbKBYx7E6ctzs7FmI_AjQq2uWTcFMcRkf-V3x2Eo" width="400px" alt="Project 5"/>
                     <br>
                     <b>How My Cat Got Me a Job Interview?</b>
                 </a>
             </td>
             <td align="center">
                 <a href="https://www.linkedin.com/posts/omer-reuveni_%D7%9C%D7%9E%D7%94-%D7%9B%D7%93%D7%90%D7%99-%D7%9C%D7%9A-%D7%9C%D7%A2%D7%91%D7%95%D7%93-%D7%A2%D7%9C-%D7%A4%D7%A8%D7%95%D7%99%D7%A7%D7%98%D7%99%D7%9D-5-%D7%A1%D7%99%D7%91%D7%95%D7%AA-activity-6863835482632007681-QFn0?utm_source=share&utm_medium=member_desktop">
-                    <img src="https://media.licdn.com/dms/image/sync/C4D27AQFNcEDF4AaKbg/articleshare-shrink_800/0/1711310315528?e=1714935600&v=beta&t=ExzvyvZkjzyH12bLAEZnpsdyTgdtMLt5vFuJKAiq2AU" width="200px" alt="Achievement 6"/>
+                    <img src="https://media.licdn.com/dms/image/sync/C4D27AQFNcEDF4AaKbg/articleshare-shrink_800/0/1711310315528?e=1714935600&v=beta&t=ExzvyvZkjzyH12bLAEZnpsdyTgdtMLt5vFuJKAiq2AU" width="400px" alt="Project 6"/>
                     <br>
                     <b>Learning by doing, doing by need</b>
                 </a>
@@ -63,7 +63,7 @@
         <tr>
             <td align="center">
                 <a href="https://www.linkedin.com/posts/omer-reuveni_%D7%A6%D7%99%D7%95%D7%A0%D7%99%D7%9D-%D7%96%D7%94-%D7%9C%D7%90-%D7%94%D7%9B%D7%9C-%D7%9B%D7%9B%D7%94-%D7%94%D7%97%D7%AA%D7%95%D7%9C-%D7%A9%D7%9C%D7%99-%D7%94%D7%9B%D7%A0%D7%99%D7%A1-%D7%9C%D7%9E%D7%95%D7%91%D7%99%D7%9C%D7%90%D7%99%D7%99-activity-7011214260835872768-8BdO?utm_source=share&utm_medium=member_desktop">
-                    <img src="images/sababox_thumbnail.png" width="200px" alt="Achievement 4"/>
+                    <img src="images/sababox_thumbnail.png" width="400px" alt="Project 4"/>
                     <br>
                     <b>SabaBox- Elderly-friendly remote</b>
                 </a>
