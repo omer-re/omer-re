@@ -111,27 +111,3 @@
 
 
 Feel free to check out my repositories and reach out if you have any questions or if you want to collaborate on a project!
-
-`C++`, `Cloud Computing`, `Impact`, `Sensing`, `Multi Device`, `Security`, `Communication`, `Signal Processing`, `Real-Time`
-`Python`, `Streamlit`, `GUI`, `Web`, `Image Processing`, `Cloud Computing`
-`C++`, `Sensors`, `Signal Processing`, `Impact`, `Hardware`
-`OpenCV`, `Image Processing`, `Sensing`, `IoT`, `Computer Vision`, `Detection`, `Classification`
-`Python`, `OpenCV`, `Image Processing`, `Computer Vision`
-`C++`, `OpenCV`, `Detection`, `Classification`, `Data`, `Sensing`
-`Python`, `Streamlit`, `GUI`, `Web`, `Image Processing`, `Cloud Computing`
-`Python`, `Data`, `Encryption`, `Privacy`, `Impact`
-`Python`, `GIS`, `Cloud`, `Routing Algo`, `Google API`, `Impact`
-`Python`, `Image Processing`
-`C++`, `MicroPython`, `IoT`, `ESP32`, `Multithreading`, `Servo`, `Laser`
-`MicroPython`, `IoT`, `ESP32`, `Multithreading`, `Impact`
-`Computer Vision`, `Detection`, `Tracking`, `Classification`, `Data`, `IoT`, `Sensing`
-`Python`, `GUI`, `Web`, `Image Processing`
-`Python`, `Data`, `NLP`
-`Python`, `Data`, `NLP`, `Chatbot`, `Impact`
-`C++`, `Python`, `IoT`, `Sensors`, `Chatbot`
-`C++`, `Arduino`, `IoT`, `Hardware`
-`OpenCV`, `Image Processing`, `Sensing`, `IoT`, `Computer Vision`
-`Python`, `Data`, `NLP`
-`OpenCV`, `Image Processing`, `Sensing`, `IoT`, `Computer Vision`, `Detection`, `Classification`
-`C++`, `ESP32`, `IoT`, `Chatbot`, `Sensors`
-`OpenCV`, `Image Processing`, `Sensing`, `IoT`
