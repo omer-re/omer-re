@@ -1,6 +1,6 @@
 # Omer Re GitHub Portfolio
 
-![Solution Oriented](https://media.licdn.com/dms/image/C5616AQGLbliksSGAiQ/profile-displaybackgroundimage-shrink_350_1400/0/1639510320149?e=1720051200&v=beta&t=BOEiJtppkC6fpBUTiB2u3SPlsuL8G4WM9IcoAQJdKoo)
+![Solution Oriented](https://media.licdn.com/dms/image/D4E16AQHknnc7OFsUEg/profile-displaybackgroundimage-shrink_350_1400/0/1714383396584?e=1720051200&v=beta&t=wIoSIYyHnoYEvqCX2qpwxoPYdyOWy3_-0taS1ilEB44)
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-blue?style=for-the-badge&logo=linux)
