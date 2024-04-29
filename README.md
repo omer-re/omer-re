@@ -1,5 +1,7 @@
 # Omer Re GitHub Portfolio
 
+![Solution Oriented](https://media.licdn.com/dms/image/C5616AQGLbliksSGAiQ/profile-displaybackgroundimage-shrink_350_1400/0/1639510320149?e=1720051200&v=beta&t=BOEiJtppkC6fpBUTiB2u3SPlsuL8G4WM9IcoAQJdKoo)
+
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-blue?style=for-the-badge&logo=linux)
 ![](https://img.shields.io/badge/Code-C++-blue?style=for-the-badge&logo=cplusplus)
@@ -13,6 +15,8 @@
 ![](https://img.shields.io/badge/Signal_Processing-DSP-blue?style=for-the-badge&logo=adobe)  <!-- Using 'Adobe' since it's related to digital media processing which can overlap with signal processing -->
 ![](https://img.shields.io/badge/Image_Processing-Computer_Vision-blue?style=for-the-badge&logo=adobe)  <!-- Continuing with 'Adobe' due to its strong association with image processing tools -->
 
+
+## ⭐ Highlights
 <div align="center">
     <table>
         <tr>
@@ -70,6 +74,7 @@
         </td>
         <td align="center" colspan="2">
             <img src="https://camo.githubusercontent.com/625b30e884f2803e0400b62b9341fb9ae0e43895f507d2f32c3186b16537a78e/68747470733a2f2f692e696d6775722e636f6d2f7136496949596c2e706e67" width="400px" alt="Project 4"/>
+            <img src="https://camo.githubusercontent.com/0ae2f348f44c88de1fa40e709ac5149ad3d487ff1d17bcadbb1ba96e626ccd2a/68747470733a2f2f692e696d6775722e636f6d2f313242515a6e782e706e67" width="400px" alt="Project 4"/>
             <br>
             <b>SabaBox- Elderly-friendly remote</b>
         </td>
@@ -80,7 +85,7 @@
 
 
 
-## 🚀 My Projects
+## 🚀 Projects Portfolio
 
 Project Name | Repository Link | Visibility | Demo | Technologies | Description
 -------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------
